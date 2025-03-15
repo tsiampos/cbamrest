@@ -1,0 +1,25 @@
+body {
+background: url(bg.png) repeat-x;
+font-size: 0.95em;
+line-height: 1.4em;
+margin: 0;
+margin-top: 4px;
+overflow-x: hidden;
+
+}
+a img {
+text-decoration: none;
+border: none;
+position:relative;
+top:3px;
+}
+h1 {
+display: none;
+}
+h
+#head {
+padding-top: 1px;
+margin: auto;
+width: 970px;
+padding-left: 24px;
+}
